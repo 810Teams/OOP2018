@@ -34,8 +34,9 @@ proguard/
 build/
 bin/
 
-# MacOS
-.DS_Store
-
+# Output files
 out/
 lib/license.jar
+
+# MacOS
+.DS_Store
